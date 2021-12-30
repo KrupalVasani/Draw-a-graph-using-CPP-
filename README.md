@@ -1,4 +1,4 @@
-#Perfect guide for using this Graph Draw tool
+# Perfect guide for using this Graph Draw tool
 
 draw a graph of given equation using C++ and BGI
 
