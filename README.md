@@ -13,5 +13,5 @@ e.g. x^6+y-9
 ### Step 3
 Enjoy this tool
 #### Happy Learning
-#####Feel free to contact me for Any Query or Any Suggestion to me.
-https://www.linkedin.com/in/krupal-vasani-659ba91a0/
+##### Feel free to contact me for Any Query or Any Suggestion to me.
+###### https://www.linkedin.com/in/krupal-vasani-659ba91a0/
