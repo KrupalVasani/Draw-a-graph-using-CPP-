@@ -1,17 +1,17 @@
-# Perfect guide for using this Graph Draw tool
+# Graph Designer using C++
 
-## Draw a graph of given Quadratic Equation using C++ and Borald Graphical Interface
+* _C++, Borald Graphics Interface_.
+* Used C++ BGI Library to plot graph.
+* I have done infix equation to postfix equation then evaluate postfix equation in order to find (X,Y) coordinates for graph.
 
-### Step 1
-Run graph_main.exe
+### Guide for using this Graph Draw tool
+ 
+#### Draw a graph of given Quadratic Equation using C++ and Borald Graphical Interface
 
-### Step 2
-Enter a quadratic equation 
-e.g. x^2+3*y^2+12
-e.g. x^6+y-9
-
-### Step 3
-Enjoy this tool
-#### Happy Learning
-##### Feel free to contact me for Any Query or Any Suggestion to me.
-###### https://www.linkedin.com/in/krupal-vasani-659ba91a0/
+* Run graph_main.exe
+* Enter a quadratic equation 
+    * e.g. x^2+3*y^2+12
+    * e.g. x^6+y-9
+* Use this tool
+_Feel free to contact me if you have any Query/Suggetion._
+[Mail Me](mailto:geekforgeeks222@gmail.com)
