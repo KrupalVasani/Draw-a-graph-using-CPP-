@@ -1,6 +1,6 @@
 # Graph Designer using C++
 
-* _C++, Borald Graphics Interface_.
+* C++, Borald Graphics Interface.
 * Used C++ BGI Library to plot graph.
 * I have done infix equation to postfix equation then evaluate postfix equation in order to find (X,Y) coordinates for graph.
 
@@ -14,4 +14,6 @@
     * e.g. x^6+y-9
 * Use this tool
 _Feel free to contact me if you have any Query/Suggetion._
-[Mail Me](mailto:geekforgeeks222@gmail.com)
+
+
+[Send Mail](mailto:geekforgeeks222@gmail.com)
