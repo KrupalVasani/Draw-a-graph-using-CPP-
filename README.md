@@ -1,4 +1,4 @@
-# Graph Designer using C++
+### Graph Designer using C++
 
 * C++, Borald Graphics Interface.
 * Used C++ BGI Library to plot graph.
