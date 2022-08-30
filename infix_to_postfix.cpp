@@ -2,7 +2,7 @@
 #include <stack>
 using namespace std;
 
-int pr_onstack(char kr)     //it returns relative presedence 
+int pr_onstack(char kr)     //it returns relative precedence 
 //of operators which is on stack
 {
     if (kr == '^')
@@ -14,7 +14,7 @@ int pr_onstack(char kr)     //it returns relative presedence
     else
         return 0;
 }
-int pr_onstirng(char kr)  //it returns relative presedence 
+int pr_onstirng(char kr)  //it returns relative precedence 
 //of operators which is on string(equation)
 {
     if (kr == '^')

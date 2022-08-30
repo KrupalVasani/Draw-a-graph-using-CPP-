@@ -13,7 +13,7 @@
     * e.g. x^2+3*y^2+12
     * e.g. x^6+y-9
 * Use this tool
-_Feel free to contact me if you have any Query/Suggetion._
+_Feel free to contact me if you have any Query/Suggestion._
 
 
 [Send Mail](mailto:geekforgeeks222@gmail.com)
